@@ -1,0 +1,20 @@
+
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                        Starting Execution: '1 out of 1' test cases in the current suite                                        
+                                             Test Method: 'Tests.P02_RegisterTest.validRegistration'                                             
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[ReportManager] Click "By.xpath: //span[text()='My Account']" @20-01-2025 15:59:40.0306 PM
+[ReportManager] Click "Register" @20-01-2025 15:59:41.0689 PM
+[ReportManager] Type "* First Name" @20-01-2025 15:59:41.0952 PM
+[ReportManager] Type "* Last Name" @20-01-2025 15:59:42.0121 PM
+[ReportManager] Type "* E-Mail" @20-01-2025 15:59:42.0435 PM
+[ReportManager] Type "* Telephone" @20-01-2025 15:59:42.0725 PM
+[ReportManager] Type "* Password" @20-01-2025 15:59:42.0938 PM
+[ReportManager] Type "* Password Confirm" @20-01-2025 15:59:43.0177 PM
+[ReportManager] Click "By.cssSelector: [name='agree']" @20-01-2025 15:59:43.0339 PM
+[ReportManager] Click "Continue" @20-01-2025 15:59:44.0236 PM
+[ReportManager] Get text "Congratulations! Your new account has been successfully created!" from "By.xpath: (//div[@id='content']//p)[1]". @20-01-2025 15:59:44.0341 PM
+[ReportManager] Click "By.xpath: //span[text()='My Account']" @20-01-2025 15:59:44.0445 PM
+[ReportManager] Is element displayed "Logout". @20-01-2025 15:59:44.0611 PM
+[ReportManager] Click "Logout" @20-01-2025 15:59:45.0646 PM

@@ -1,0 +1,23 @@
+[ReportManager] Setting "targetOperatingSystem" property with "windows". @20-01-2025 15:59:16.0230 PM
+[ReportManager] Setting "screenshotParams_scalingFactor" property with "1.5". @20-01-2025 15:59:17.0522 PM
+[ReportManager] Capabilities {acceptInsecureCerts: true, browserName: chrome, goog:chromeOptions: {args: [--disable-search-engine-cho..., --remote-allow-origins=*, --enable-automation, --disable-background-timer-..., --disable-backgrounding-occ..., --disable-features=Optimiza..., --disable-hang-monitor, --disable-domain-reliability, --disable-renderer-backgrou..., --metrics-recording-only, --no-first-run, --no-default-browser-check, --silent-debugger-extension..., --disable-extensions, --disable-component-extensi..., --disable-dev-shm-usage, --disable-ipc-flooding-prot..., --disable-background-networ..., --mute-audio, --disable-breakpad, --ignore-certificate-errors, --disable-device-discovery-..., --force-color-profile=srgb, --hide-scrollbars, --host-resolver-rules, --no-pings, --disable-sync, --disable-field-trial-config, --enable-features=NetworkSe..., --enable-features=NetworkSe..., --enable-use-zoom-for-dsf, --log-net-log, --net-log-capture-mode, --disable-client-side-phish..., --disable-default-apps, --remote-debugging-pipe, --no-sandbox, --start-maximized], extensions: [], prefs: {download.default_directory: C:\Users\aabdelghafar\OneDr..., download.prompt_for_download: false, profile.default_content_settings.popups: 0}}, pageLoadStrategy: normal, timeouts: {pageLoad: 60000, script: 60000}, unhandledPromptBehavior: ignore, webSocketUrl: true} @20-01-2025 15:59:18.0113 PM
+[ReportManager] Attempting to run locally on: "Windows | Chrome". @20-01-2025 15:59:18.0113 PM
+[ReportManager] Identifying OS/Driver combination. Please note that if a new browser/driver executable will be downloaded it may take some time depending on your connection... @20-01-2025 15:59:18.0113 PM
+[ReportManager] Successfully Opened: "Windows | Chrome". @20-01-2025 15:59:34.0106 PM
+[ReportManager] Initial window size: (1296, 688) @20-01-2025 15:59:34.0163 PM
+[ReportManager] Window size after SWD Maximize: (1296, 688) @20-01-2025 15:59:34.0179 PM
+[ReportManager] Window size after Toolkit: (1280, 720) @20-01-2025 15:59:34.0370 PM
+[ReportManager] Window size after WebDriver.Manage.Window: (1298, 738) @20-01-2025 15:59:34.0783 PM
+[ReportManager] Initial Windows Size: 1298x738 @20-01-2025 15:59:34.0803 PM
+[ReportManager] Current Windows Size after fullScreen: 1280x720 @20-01-2025 15:59:34.0881 PM
+[ReportManager] Full screen window. @20-01-2025 15:59:34.0899 PM
+[ReportManager] Successfully created attachment 'Browser Action Test Data - Full screen window - Actual Value' @20-01-2025 15:59:34.0905 PM
+[ReportManager] Window size after fullScreenWindow: (1280, 720) @20-01-2025 15:59:34.0915 PM
+[ReportManager] skipping window maximization due to unknown error, marking step as passed. @20-01-2025 15:59:34.0916 PM
+[ReportManager] Maximize window "New screen size is now: (1280, 720)". @20-01-2025 15:59:34.0918 PM
+[ReportManager] Target URL: "https://opencart.abstracta.us/index.php?route=common/home" @20-01-2025 15:59:34.0922 PM
+[ReportManager] Initial URL: "about:blank" @20-01-2025 15:59:34.0957 PM
+[ReportManager] Navigate to url "https://opencart.abstracta.us/index.php?route=common/home". @20-01-2025 15:59:38.0551 PM
+[ReportManager] Reading test data from the following file [./src/main/resources/UserRegistrationData.xlsx]. @20-01-2025 15:59:39.0828 PM
+[ReportManager] Loaded Test Data: "./src/main/resources/UserRegistrationData.xlsx". @20-01-2025 15:59:39.0830 PM
+[ReportManager] Successfully created attachment 'Test Data - Excel' @20-01-2025 15:59:39.0836 PM
